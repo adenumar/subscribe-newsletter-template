@@ -1,15 +1,15 @@
 # subscribe-newsletter-template
 ![](https://i.im.ge/2022/07/22/FsXUz8.png)
-A best Subscribe Newsletter Template, Fully Editable | Only using HTML &amp; CSS
-● Open Soucre Code 
+A best Subscribe Newsletter Template, Fully Editable | Only using HTML &amp; CSS<br>
+● Open Soucre Code <br>
 ● Edit as your wish 
 
 # 💫 About Me:
-🔭 I’m currently solving some programming challenges for my video production in YouTube.
-👯 I’m looking to collaborate on coding projects.
-🤝 I’m looking for help from some experts who have more knowledge than me.
-🌱 I’m currently learning some new data structures and many more.
-💬 Ask me about programming and anything related to coding.
+🔭 I’m currently solving some programming challenges for my video production in YouTube.<br>
+👯 I’m looking to collaborate on coding projects.<br>
+🤝 I’m looking for help from some experts who have more knowledge than me.<br>
+🌱 I’m currently learning some new data structures and many more.<br>
+💬 Ask me about programming and anything related to coding.<br>
 ⚡ I like to read more books and love to make more money. 
 
 
